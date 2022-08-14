@@ -83,7 +83,7 @@
                                        <ul>
                                            <li><a href="<?= base_url('admin/profile'); ?>">Profile</a></li>
                                            <li><a href="<?= base_url('admin/admlist'); ?>">Admin</a></li>
-                                           <li><a href="<?= base_url('admin/students'); ?>">Students</a></li>
+                                           <li><a href="<?= base_url('admin/students'); ?>">Pegawai</a></li>
                                        </ul>
                                    </li>
                                </ul>
