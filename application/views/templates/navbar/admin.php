@@ -90,7 +90,7 @@
                            </li>
 
                            <li class="has-submenu">
-                               <a href="<?= base_url('admin/classes'); ?>"><i class="icon-pencil-ruler"></i> Class</a>
+                               <a href="<?= base_url('admin/classes'); ?>"><i class="icon-pencil-ruler"></i> Pangkat</a>
                            </li>
 
                            <li class="has-submenu">
